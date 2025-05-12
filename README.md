@@ -1,4 +1,4 @@
-# ✈️ AIRLINE PROJECT – Java Full Stack Application
+# ✈️ **SkyTicket is a comprehensive Airline Ticket Management System**
 
 The **AIRLINE PROJECT** is a Java-based Full Stack application that provides a user-friendly interface to manage airline operations such as booking, customer details, flight management, and more. The project uses **Java Swing** for the front-end GUI and **JDBC** for backend database connectivity.
 
